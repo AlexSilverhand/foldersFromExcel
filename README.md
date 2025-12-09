@@ -1,4 +1,4 @@
-# Folders from Excel
+# Folders-from-Excel Automation Script (Python)
 A small Python script that automates the creation of folders based on names listed in an Excel file. Useful for organizing user directories or setting up project environments in bulk.
 
 ## Key Features  
